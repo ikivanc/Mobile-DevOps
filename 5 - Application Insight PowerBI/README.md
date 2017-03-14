@@ -19,7 +19,11 @@ Bu bölümde Application Insight'taki tüm telemetri bilgilerinin nasıl kolay b
 1. Açılan ekrana kopyaladığını sorguyu yazarak tamam'a tıklayın.
     <img src="images/6.png" alt="">
 1. Bu aşamada ilk defa bağlantı kuruyorsanız, bilgisayarınızda Azure hesabınıza ait
-credential'lar aracılığı ile log-in ekranında login olmanız gerekecek.
+credential'lar aracılığı ile log-in ekranında login olmanız gerekecek. Bunun için ekrana gelen ekrandan, "Organizational Account" seçin.
+  <img src="images/6a.png" alt="">
+
+1. Daha sonra karşınıza gelen ekrandan Sign in'i tıklayarak kurum hesabınızı girerek log-in olun. Böylelikle PowerBI Raporunuz Azure üzerindeki Application Insight telemetri datalarına erişerek rapor üzerinde gösterebilecek.
+    <img src="images/6b.png" alt="">
 
 1. Login işlemi tamamlandıktan sonra buradaki verilerin başarı ile çekildiğini görebileceksiniz.Bu adımda "Home" sekmesine tıklayın.
     <img src="images/7.png" alt="">
