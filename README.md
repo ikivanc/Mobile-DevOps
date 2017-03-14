@@ -9,7 +9,7 @@ HockeyApp ve Visual Studio Team Services ‘in tüm mobil yazılım geliştirici
 ## İçindekiler
 1. [Xamarin App Template]()
 1. [HockeyApp]()
-1. [Application Insight Bridge]()
+1. [Application Insight Bridge](3%20-%20Application%20Insight%20Bridge/applicaitoninsightbridge.md)
 1. [Application Insight Analytics]()
 1. [Application Insight - PowerBI Connection]()
 1. [PowerBI Publish]()
