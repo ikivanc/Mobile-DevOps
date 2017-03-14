@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HockeyAppInsight.DetailPage">
+  <StackLayout>
+    <Label Text="Detail Page" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Button x:Name="btnCustomClick" Text="Custom Event" HorizontalOptions="Fill" BackgroundColor="#FF00C5FF" TextColor="White" Margin="-2,0" HeightRequest="70" FontSize="21.333" Clicked="btnCustom_Click"/>
+    <!--IKADA-->
+    <WebView x:Name="Browser" Source="BURAYA POWERBI EMBEDED HTML KODU BURAYA GELECEK" WidthRequest="1000" HeightRequest="1000" />
+  </StackLayout>
+</ContentPage>

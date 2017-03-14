@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HockeyAppInsight.Home">
+  <StackLayout>
+  <Label Text="Home Page" VerticalOptions="Center" HorizontalOptions="Center" />
+  <Button x:Name="btnClick" Text="Throw Crash" HorizontalOptions="Fill" BackgroundColor="#FF00C5FF" TextColor="White" Margin="-2,0" HeightRequest="70" FontSize="21.333" Clicked="Button_Click"/>
+
+  <Button x:Name="btnCustomClick" Text="Custom Event" HorizontalOptions="Fill" BackgroundColor="#FF00C5FF" TextColor="White" Margin="-2,0" HeightRequest="70" FontSize="21.333" Clicked="btnCustom_Click"/>
+  </StackLayout>
+</ContentPage>
