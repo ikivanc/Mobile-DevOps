@@ -35,7 +35,7 @@ HockeyApp ve Application Insight'ın birlikte kullanımı için, adım adım ekl
 1. Bu token'I Application Insight'ta kullanarak uygulamamımızın adınını otomatik olarak seçildiğini görebileceğiz. 
     <img src="images/6.png" alt="">
 
-1. Sonra "Pin to dashboard"u seçerek oluşturduktan sonra aşağıdaki şekilde entegrasyonunun oluştuğunu görebileceğiz.
+1. Sonra "Pin to dashboard"u seçerek oluşturduktan sonra aşağıdaki şekilde entegrasyonunun oluştuğunu görebileceğiz. İlk başta veriler ekrana yansımayacaktır o yüzden uygulamamızda  bilerek hata alarak oluşturarak ekranda grafiğe yansımasını sağlayalım. Veriler ilk hatalardan sonra bir kaç dakika sonra geç yansıyacaktır.
     <img src="images/7.png" alt="">
 
 1. Oluşturulan projede uygulamamız çalıştıkça overview ve usage kısmından yansımalarını takip edebiliriz.
